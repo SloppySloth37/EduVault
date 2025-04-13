@@ -6,5 +6,4 @@ A centralized digital hub for engineering students in Hyderabad, offering study 
 - Easy search and filtering
 - drive links for notes and past papers
 
-Link to the website:
-#### https://eduvaultforstudents.netlify.app/
+Link to the website: https://eduvaultforstudents.netlify.app/
